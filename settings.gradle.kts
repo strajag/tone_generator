@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "tone-generator-v0-0-1"
+rootProject.name = "tone_generator"
 include(":app")
